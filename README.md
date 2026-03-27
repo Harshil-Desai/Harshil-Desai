@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.harshildesai.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-harshildesai.me-black?style=flat-square&logo=vercel" /></a>
   <a href="https://linkedin.com/in/harshil-desai-a89918201" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Harshil%20Desai-0A66C2?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:hdesai1633@gmail.com"><img src="https://img.shields.io/badge/Email-hdesai1633@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#93fbf7f6e0f2faa2a5a0a0d3f4fef2faffbdf0fcfe"><img src="https://img.shields.io/badge/Email-hdesai1633@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Harshil-Desai&style=flat-square&color=grey" alt="profile views" />
 </p>
 
@@ -68,8 +68,13 @@ I enjoy working across the entire stack: designing RESTful APIs, optimising SQL 
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Harshil-Desai&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil-Desai&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Harshil-Desai&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Harshil-Desai&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harshil-Desai&layout=compact&theme=radical" />
 </p>
 
 ---
