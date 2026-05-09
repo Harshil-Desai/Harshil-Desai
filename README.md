@@ -105,6 +105,9 @@ Outside work I build opinionated tools and weird browser games — big believer 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Harshil-Desai&show_icons=true&theme=radical" />
 </p>
 <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Harshil-Desai&theme=radical" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harshil-Desai&layout=compact&theme=radical" />
 </p>
 
